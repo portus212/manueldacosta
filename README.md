@@ -16,7 +16,10 @@ Python
 SQL
 MySQL
 Power BI</p>
-
+  <img src="https://img.icons8.com/dusk/64/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
 </body>
 </html>
 
